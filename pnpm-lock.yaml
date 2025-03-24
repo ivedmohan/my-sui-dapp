@@ -23,8 +23,8 @@ importers:
         specifier: ^0.14.47
         version: 0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3)
       '@mysten/sui':
-        specifier: ^1.20.0
-        version: 1.20.0(typescript@5.7.3)
+        specifier: ^1.24.0
+        version: 1.24.0(typescript@5.7.3)
       '@mysten/wallet-standard':
         specifier: ^0.13.23
         version: 0.13.23(typescript@5.7.3)
@@ -39,7 +39,7 @@ importers:
         version: 3.1.6(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@suiware/kit':
         specifier: ^0.6.0
-        version: 0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.20.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        version: 0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.24.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@tanstack/react-query':
         specifier: ^5.64.2
         version: 5.64.2(react@19.0.0)
@@ -126,8 +126,8 @@ importers:
         specifier: ^0.14.47
         version: 0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3)
       '@mysten/sui':
-        specifier: ^1.20.0
-        version: 1.20.0(typescript@5.7.3)
+        specifier: ^1.24.0
+        version: 1.24.0(typescript@5.7.3)
       '@mysten/wallet-standard':
         specifier: ^0.13.23
         version: 0.13.23(typescript@5.7.3)
@@ -142,7 +142,7 @@ importers:
         version: 3.1.6(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@suiware/kit':
         specifier: ^0.6.0
-        version: 0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.20.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        version: 0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.24.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@tanstack/react-query':
         specifier: ^5.64.2
         version: 5.64.2(react@19.0.0)
@@ -225,8 +225,8 @@ importers:
 
 packages:
 
-  '@0no-co/graphql.web@1.0.13':
-    resolution: {integrity: sha512-jqYxOevheVTU1S36ZdzAkJIdvRp2m3OYIG5SEoKDw5NI8eVwkoI0D/Q3DYNGmXCxkA6CQuoa7zvMiDPTLqUNuw==}
+  '@0no-co/graphql.web@1.1.2':
+    resolution: {integrity: sha512-N2NGsU5FLBhT8NZ+3l2YrzZSHITjNXNuDhC4iDiikv0IujaJ0Xc6xIxQZ/Ek3Cb+rgPjnLHYyJm11tInuJn+cw==}
     peerDependencies:
       graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
     peerDependenciesMeta:
@@ -627,6 +627,9 @@ packages:
   '@mysten/bcs@1.2.1':
     resolution: {integrity: sha512-RMSaUsNb8oR0rTRVIOOcyoEVJqQi6DLvMXN+7mvDcki12FJFQ0lF89zQa7AV7cIurWlDQfJ8VIbCuRDyK+955A==}
 
+  '@mysten/bcs@1.5.0':
+    resolution: {integrity: sha512-v39dm5oNfKYMAf2CVI+L0OaJiG9RVXsjqPM4BwTKcHNCZOvr35IIewGtXtWXsI67SQU2TRq8lhQzeibdiC/CNg==}
+
   '@mysten/dapp-kit@0.14.47':
     resolution: {integrity: sha512-+mP0+DcUIjxPuZbmz687Z+Q0R9T6USd2xOn7vQI0rnveBHCPy55fy9ufy08fv2B99siRbIrUXi2WDVnIA/OQRA==}
     peerDependencies:
@@ -635,6 +638,10 @@ packages:
 
   '@mysten/sui@1.20.0':
     resolution: {integrity: sha512-/XLogwOYaSP31lPt377fj5b+8sRIyt2Opi/Ssos5dssPqol9vgvN/ZzV5Y5qVl4VquhATJHRpwV33B5rIVi7Ow==}
+    engines: {node: '>=18'}
+
+  '@mysten/sui@1.24.0':
+    resolution: {integrity: sha512-lmJJLM7eMrxM6Qpr6cdLr07UBXlxCM7SJjfcDO7NGrqZTx7/3TD2QhhRpDx0fS2tODxrNwQxCoHPApLVPjokIA==}
     engines: {node: '>=18'}
 
   '@mysten/suins@0.4.2':
@@ -3732,7 +3739,7 @@ packages:
 
 snapshots:
 
-  '@0no-co/graphql.web@1.0.13(graphql@16.10.0)':
+  '@0no-co/graphql.web@1.1.2(graphql@16.10.0)':
     optionalDependencies:
       graphql: 16.10.0
 
@@ -3898,7 +3905,7 @@ snapshots:
 
   '@gql.tada/internal@1.0.8(graphql@16.10.0)(typescript@5.7.3)':
     dependencies:
-      '@0no-co/graphql.web': 1.0.13(graphql@16.10.0)
+      '@0no-co/graphql.web': 1.1.2(graphql@16.10.0)
       graphql: 16.10.0
       typescript: 5.7.3
 
@@ -4024,6 +4031,10 @@ snapshots:
     dependencies:
       bs58: 6.0.0
 
+  '@mysten/bcs@1.5.0':
+    dependencies:
+      '@scure/base': 1.2.4
+
   '@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3)':
     dependencies:
       '@mysten/sui': 1.20.0(typescript@5.7.3)
@@ -4070,9 +4081,27 @@ snapshots:
       - '@gql.tada/vue-support'
       - typescript
 
+  '@mysten/sui@1.24.0(typescript@5.7.3)':
+    dependencies:
+      '@graphql-typed-document-node/core': 3.2.0(graphql@16.10.0)
+      '@mysten/bcs': 1.5.0
+      '@noble/curves': 1.8.1
+      '@noble/hashes': 1.7.1
+      '@scure/base': 1.2.4
+      '@scure/bip32': 1.6.2
+      '@scure/bip39': 1.5.4
+      gql.tada: 1.8.10(graphql@16.10.0)(typescript@5.7.3)
+      graphql: 16.10.0
+      poseidon-lite: 0.2.1
+      valibot: 0.36.0
+    transitivePeerDependencies:
+      - '@gql.tada/svelte-support'
+      - '@gql.tada/vue-support'
+      - typescript
+
   '@mysten/suins@0.4.2(typescript@5.7.3)':
     dependencies:
-      '@mysten/sui': 1.20.0(typescript@5.7.3)
+      '@mysten/sui': 1.24.0(typescript@5.7.3)
     transitivePeerDependencies:
       - '@gql.tada/svelte-support'
       - '@gql.tada/vue-support'
@@ -4902,10 +4931,10 @@ snapshots:
 
   '@suchipi/femver@1.0.0': {}
 
-  '@suiware/kit@0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.20.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@suiware/kit@0.6.0(@mysten/dapp-kit@0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3))(@mysten/sui@1.24.0(typescript@5.7.3))(@mysten/suins@0.4.2(typescript@5.7.3))(@mysten/wallet-standard@0.13.23(typescript@5.7.3))(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@mysten/dapp-kit': 0.14.47(@tanstack/react-query@5.64.2(react@19.0.0))(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.3)
-      '@mysten/sui': 1.20.0(typescript@5.7.3)
+      '@mysten/sui': 1.24.0(typescript@5.7.3)
       '@mysten/suins': 0.4.2(typescript@5.7.3)
       '@mysten/wallet-standard': 0.13.23(typescript@5.7.3)
       '@radix-ui/themes': 3.1.6(@types/react-dom@19.0.3(@types/react@19.0.7))(@types/react@19.0.7)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
@@ -6075,7 +6104,7 @@ snapshots:
 
   gql.tada@1.8.10(graphql@16.10.0)(typescript@5.7.3):
     dependencies:
-      '@0no-co/graphql.web': 1.0.13(graphql@16.10.0)
+      '@0no-co/graphql.web': 1.1.2(graphql@16.10.0)
       '@0no-co/graphqlsp': 1.12.16(graphql@16.10.0)(typescript@5.7.3)
       '@gql.tada/cli-utils': 1.6.3(@0no-co/graphqlsp@1.12.16(graphql@16.10.0)(typescript@5.7.3))(graphql@16.10.0)(typescript@5.7.3)
       '@gql.tada/internal': 1.0.8(graphql@16.10.0)(typescript@5.7.3)
