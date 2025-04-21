@@ -16,7 +16,7 @@
     "walrus-site-deploy": "node ./scripts/walrus-site-deploy.cjs"
   },
   "dependencies": {
-    "@mysten/dapp-kit": "^0.14.47",
+    "@mysten/dapp-kit": "^0.15.6",
     "@mysten/sui": "^1.20.0",
     "@mysten/wallet-standard": "^0.13.23",
     "@radix-ui/react-select": "^2.1.4",
